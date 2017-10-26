@@ -1,8 +1,6 @@
 const express = require('express');
 const app = express();
 
-app.use(device.capture());
-
 app.enable('trust proxy');
 
 app.get('/whoami', function(req, res) {
