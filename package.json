@@ -1,0 +1,26 @@
+{
+  "name": "header-parser-microservice",
+  "version": "1.0.0",
+  "description": "FCC Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsht123/Header-Parser-Microservice.git"
+  },
+  "dependencies": {
+    "express": "*"
+  },
+  "author": "Rishit Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsht123/Header-Parser-Microservice/issues"
+  },
+  "engines": {
+    "node": "6.11.4"
+  },
+  "homepage": "https://github.com/rsht123/Header-Parser-Microservice#readme"
+}
